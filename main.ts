@@ -8,7 +8,7 @@ input.onButtonPressed(Button.A, function () {
             . . . . .
             . . . . .
             `)
-        music.playMelody("B A G A G F A C5 ", 59)
     }
+    music.playMelody("B A G A G F A C5 ", 274)
     basic.clearScreen()
 })
